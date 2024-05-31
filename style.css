@@ -1,0 +1,74 @@
+*{
+    margin:0px;
+    padding:0px;
+    background-color: rgb(221, 248, 248);
+}
+.logo{
+    display: flex;
+    justify-content: space-between;
+    height:25vh;
+    text-align: center;
+}
+.logoright{
+    padding : 20px
+}
+.logoleft{
+    padding-left:20px;
+}
+.middle{
+    height: 70vh;
+    display: flex;
+    justify-content: space-between;
+}
+.photo{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.para{
+    padding-right: 20px;
+    width:60vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:rgb(124, 124, 245)
+}
+.namestyle{
+    color:yellow;
+
+}
+.h{
+    padding-top:10px;
+    padding-bottom:40px;
+}
+.skills{
+    padding :20px;
+    height: 40vh;
+}
+.skillsets{
+    display:flex;
+    flex-direction: row;
+    text-align: center;
+    padding:auto; 
+    /* justify-content: space-between; */
+}
+.skill{
+    border:2px solid black;
+    margin:20px;
+    width: 400px;
+    
+}.head{
+    color:green;
+}
+.headd{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color:rgb(180, 75, 75);
+}
+.contacts{
+    text-align:center;
+    padding:5px;
+}
+.contact{
+    padding-left:500px;
+}
+.con{
+    height: 50vh;
+}
